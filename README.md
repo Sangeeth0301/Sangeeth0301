@@ -3,7 +3,6 @@
 ## 👨‍💻 About Me
 
 ```python
-class Sangeeth:
     degree       = "B.Tech - Artificial Intelligence & Data Science"
     university   = "Amrita Vishwa Vidyapeetham"
 ```
