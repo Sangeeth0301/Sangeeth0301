@@ -28,14 +28,12 @@
 
 ```python
 class Sangeeth:
-    degree       = "B.Tech - Artificial Intelligence & Data Science"
+    Course       = "B.Tech - Artificial Intelligence & Data Science"
     university   = "Amrita Vishwa Vidyapeetham"
-    location     = "Chennai, Tamil Nadu, India"
     research     = ["Quantum-Classical Hybrid ML", "Physics-Informed Neural Networks",
                     "Koopman Operator Theory", "Incipient Bearing Fault Detection"]
     currently    = "Building: Physics-Informed Quantum Reservoir Transformer"
     learning     = "Quantum Computing, Advanced PINNs, Hardware QPU"
-    goal         = "Target: Q1 Journal Publication"
 ```
 
 ---
@@ -118,15 +116,7 @@ t
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sangeeth0301&theme=tokyonight&border=00D4FF&ring=9B59B6&fire=FF6B35&currStreakNum=00D4FF&sideNums=00D4FF&currStreakLabel=9B59B6&sideLabels=9B59B6&background=0d1117)](https://git.io/streak-stats)
 
-</div>
 
----
-
-## Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sangeeth0301&theme=tokyo-night&bg_color=0d1117&color=00D4FF&line=9B59B6&point=FF6B35&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 <div align="center">
 
