@@ -5,6 +5,7 @@
 ```python
     degree       = "B.Tech - Artificial Intelligence & Data Science"
     university   = "Amrita Vishwa Vidyapeetham"
+    location     = "Coimbatore, Tamil Nadu, India"
 ```
 
 ---
@@ -16,7 +17,7 @@
 **Academic**
 
 ![Amrita](https://img.shields.io/badge/Amrita%20Vishwa%20Vidyapeetham-B.Tech%20AI%20%26%20DS-8E44AD?style=for-the-badge&logoColor=white)
-![Chennai](https://img.shields.io/badge/Chennai-Tamil%20Nadu%2C%20India-FF6B35?style=for-the-badge)
+![Coimbatore](https://img.shields.io/badge/Coimbatore-Tamil%20Nadu%2C%20India-FF6B35?style=for-the-badge)
 ![Course](https://img.shields.io/badge/Artificial%20Intelligence-Data%20Science-00D4FF?style=for-the-badge)
 
 **Research Pipeline Progress**
@@ -41,49 +42,55 @@
 
 ## 🛠️ Technical Arsenal
 
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-**Quantum Computing**
-
-![PennyLane](https://img.shields.io/badge/PennyLane-00C7B7?style=for-the-badge&logoColor=white)
-![Quantum Circuits](https://img.shields.io/badge/Quantum-Circuits-9B59B6?style=for-the-badge)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
-
-**Deep Learning & ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189ABF?style=for-the-badge&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-
-**Signal Processing & Dynamics**
-
-![PyDMD](https://img.shields.io/badge/PyDMD-mrDMD-0074C8?style=for-the-badge)
-![Koopman](https://img.shields.io/badge/Koopman-Operator%20Theory-2C3E50?style=for-the-badge)
-![UMAP](https://img.shields.io/badge/UMAP-Manifold%20Learning-E67E22?style=for-the-badge)
-![DSP](https://img.shields.io/badge/DSP-Hilbert%20%7C%20Butterworth-27AE60?style=for-the-badge)
-
-**Tools & Infrastructure**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>Languages:</b><br><br>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    </td>
+    <td valign="top" width="50%">
+      <b>Quantum Computing:</b><br><br>
+      <img src="https://img.shields.io/badge/PennyLane-00C7B7?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Quantum-Circuits-9B59B6?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <b>Deep Learning & ML:</b><br><br>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/XGBoost-189ABF?style=for-the-badge&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+    </td>
+    <td valign="top" width="50%">
+      <b>Signal Processing & Dynamics:</b><br><br>
+      <img src="https://img.shields.io/badge/PyDMD-mrDMD-0074C8?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Koopman-Operator%20Theory-2C3E50?style=for-the-badge"/><br>
+      <img src="https://img.shields.io/badge/UMAP-Manifold%20Learning-E67E22?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/DSP-Hilbert%20%7C%20Butterworth-27AE60?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <b>Tools & Infrastructure:</b><br><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    </td>
+    <td valign="top" width="50%">
+    </td>
+  </tr>
+</table>
 
 ---
 
