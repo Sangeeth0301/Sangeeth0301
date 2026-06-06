@@ -5,7 +5,6 @@
 ```python
     degree       = "B.Tech - Artificial Intelligence & Data Science"
     university   = "Amrita Vishwa Vidyapeetham"
-    location     = "Coimbatore, Tamil Nadu, India"
 ```
 
 ---
