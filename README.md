@@ -9,7 +9,7 @@
 
 ---
 
-## 🏆 Achievement Badges
+## 🏆 Profile & Expertise
 
 <div align="center">
 
