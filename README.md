@@ -1,12 +1,4 @@
-<div align="center">
 
-## 🏅 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sangeeth0301&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 👨‍💻 About Me
 
@@ -14,15 +6,6 @@
 class Sangeeth:
     degree       = "B.Tech - Artificial Intelligence & Data Science"
     university   = "Amrita Vishwa Vidyapeetham"
-    location     = "Chennai, Tamil Nadu, India"
-    research     = [
-        "Quantum-Classical Hybrid Machine Learning",
-        "Physics-Informed Neural Networks (PINNs)",
-        "Koopman Operator Theory & Dynamic Mode Decomposition",
-        "Incipient Bearing Fault Detection",
-    ]
-    currently    = "Building: Physics-Informed Quantum Reservoir Transformer"
-    learning     = "Quantum Computing | Advanced PINNs | Hardware QPU"
 ```
 
 ---
