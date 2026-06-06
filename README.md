@@ -1,27 +1,5 @@
 <div align="center">
 
-<!-- Animated Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:1a1a6e,100:2d2d9e&height=260&section=header&text=Sangeeth&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Data%20Science%20%7C%20Quantum%20ML%20Researcher%20%7C%20Amrita%20Vishwa%20Vidyapeetham&descAlignY=62&descSize=16&descColor=a8c4ff" width="100%"/>
-
-<!-- Animated Typing -->
-<a href="https://github.com/Sangeeth0301">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=50&lines=Quantum+ML+%40+Amrita+Vishwa+Vidyapeetham;Physics-Informed+Neural+Networks+%7C+PINNs;Koopman+Operator+Theory+%7C+mrDMD;Ultra-Early+Bearing+Fault+Detection;Building+the+future+of+Predictive+Maintenance" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/Sangeeth0301?style=social)](https://github.com/Sangeeth0301?tab=followers)
-&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=Sangeeth0301&color=00D4FF&style=flat&label=Profile+Views)](https://github.com/Sangeeth0301)
-&nbsp;
-![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-red?style=flat)
-
-</div>
-
----
-
-<div align="center">
-
 ## 🏅 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sangeeth0301&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
@@ -45,10 +23,6 @@ class Sangeeth:
     ]
     currently    = "Building: Physics-Informed Quantum Reservoir Transformer"
     learning     = "Quantum Computing | Advanced PINNs | Hardware QPU"
-    goal         = "Target: Q1 Journal Publication"
-
-    def __repr__(self):
-        return "Researcher detecting instability before it becomes failure"
 ```
 
 ---
@@ -69,13 +43,15 @@ class Sangeeth:
 ![Phase 2](https://img.shields.io/badge/Phase%202-mrDMD%20Analysis%20Complete-2ECC71?style=flat-square)
 ![Phase 3](https://img.shields.io/badge/Phase%203-Quantum%20Kernel%20Complete-2ECC71?style=flat-square)
 ![Phase 4](https://img.shields.io/badge/Phase%204-PINN%20ODE%20In%20Progress-F39C12?style=flat-square)
-![Target](https://img.shields.io/badge/Target-Q1%20Journal%20Publication-E74C3C?style=flat-square)
 
 **Specializations**
 
 ![Quantum Researcher](https://img.shields.io/badge/Quantum%20ML%20Researcher-9B59B6?style=for-the-badge)
 ![5-Qubit](https://img.shields.io/badge/5--Qubit%20CNOT%20Ring-Entanglement-8E44AD?style=for-the-badge)
 ![PINN](https://img.shields.io/badge/Physics--Informed-Neural%20Networks-1ABC9C?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Transformers%20%7C%20AutoEncoders-EE4C2C?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-SVM%20%7C%20XGBoost%20%7C%20Isolation%20Forest-F7931E?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Pandas%20%7C%20NumPy%20%7C%20Seaborn-150458?style=for-the-badge)
 
 </div>
 
@@ -99,7 +75,7 @@ class Sangeeth:
 ![Quantum Circuits](https://img.shields.io/badge/Quantum-Circuits-9B59B6?style=for-the-badge)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
 
-**AI & Machine Learning**
+**Deep Learning & ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -108,6 +84,7 @@ class Sangeeth:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
 **Signal Processing & Dynamics**
 
@@ -123,63 +100,6 @@ class Sangeeth:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 🚀 Featured Research
-
-<div align="center">
-
-[![Physics-Informed Quantum Reservoir Transformer](https://github-readme-stats.vercel.app/api/pin/?username=Sangeeth0301&repo=Physics-Informed-Quantum-Reservoir-Transformer-for-Bearing-SHM&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&icon_color=9B59B6&bg_color=0d1117)](https://github.com/Sangeeth0301/Physics-Informed-Quantum-Reservoir-Transformer-for-Bearing-SHM)
-
-</div>
-
-> **Physics-Informed Quantum Reservoir Transformer** — Ultra-early bearing fault detection using Quantum Kernel Reservoirs, Koopman Spectral Analysis, Temporal Transformers, and Physics-Constrained Neural ODEs. Targeting Q1 journal publication.
-
-```
-RAW VIBRATION  -->  mrDMD (Koopman)  -->  PQKR 5-Qubit  -->  Transformer  -->  PINN ODE  -->  Instability Score SI
-```
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sangeeth0301&show_icons=true&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&icon_color=9B59B6&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeeth0301&layout=compact&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="165"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sangeeth0301&theme=tokyonight&border=00D4FF&ring=9B59B6&fire=FF6B35&currStreakNum=00D4FF&sideNums=00D4FF&currStreakLabel=9B59B6&sideLabels=9B59B6&dates=8892b0&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sangeeth0301/Sangeeth0301/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sangeeth0301/Sangeeth0301/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Sangeeth0301/Sangeeth0301/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
----
-
-## 📈 Contribution Timeline
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sangeeth0301&theme=tokyo-night&bg_color=0d1117&color=00D4FF&line=9B59B6&point=FF6B35&area=true&area_color=00D4FF&hide_border=false&custom_title=Sangeeth%27s%20Contribution%20Timeline)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -204,14 +124,12 @@ RAW VIBRATION  -->  mrDMD (Koopman)  -->  PQKR 5-Qubit  -->  Transformer  -->  P
 
 <div align="center">
 
-## 📬 Connect
+## 📬 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sangeeth0301-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sangeeth0301)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_HERE)
 [![Institution](https://img.shields.io/badge/Amrita%20Vishwa%20Vidyapeetham-AI%20%26%20Data%20Science-8E44AD?style=for-the-badge)](https://www.amrita.edu)
-
-<br/>
-
-*"Detecting the birth of instability - before it becomes failure."*
 
 <br/>
 
