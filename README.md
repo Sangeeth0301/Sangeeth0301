@@ -127,8 +127,8 @@ class Sangeeth:
 ## 📬 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sangeeth0301-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sangeeth0301)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangeeth-sangeeth-62a81739a/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_sangeeth._.dxrk)
 [![Institution](https://img.shields.io/badge/Amrita%20Vishwa%20Vidyapeetham-AI%20%26%20Data%20Science-8E44AD?style=for-the-badge)](https://www.amrita.edu)
 
 <br/>
