@@ -19,12 +19,7 @@
 ![Coimbatore](https://img.shields.io/badge/Coimbatore-Tamil%20Nadu%2C%20India-FF6B35?style=for-the-badge)
 ![Course](https://img.shields.io/badge/Artificial%20Intelligence-Data%20Science-00D4FF?style=for-the-badge)
 
-**Research Pipeline Progress**
 
-![Phase 1](https://img.shields.io/badge/Phase%201-Signal%20Conditioning%20Complete-2ECC71?style=flat-square)
-![Phase 2](https://img.shields.io/badge/Phase%202-mrDMD%20Analysis%20Complete-2ECC71?style=flat-square)
-![Phase 3](https://img.shields.io/badge/Phase%203-Quantum%20Kernel%20Complete-2ECC71?style=flat-square)
-![Phase 4](https://img.shields.io/badge/Phase%204-PINN%20ODE%20In%20Progress-F39C12?style=flat-square)
 
 **Specializations**
 
